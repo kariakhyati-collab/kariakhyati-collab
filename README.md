@@ -51,4 +51,4 @@ In the last year I've shipped **90+ production apps** and made **2,000+ commits*
 
 ## 📫 Reach me
 
-🔗 LinkedIn: _add link_  ·  ✉️ Email: _add if you want it public_
+🔗 [LinkedIn](https://www.linkedin.com/in/khyati-karia/)  ·  ✉️ [karia.khyati@gmail.com](mailto:karia.khyati@gmail.com)
