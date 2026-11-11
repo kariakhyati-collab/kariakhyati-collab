@@ -1,6 +1,6 @@
 # Hi, I'm Khyati Karia 👋
 
-### Forward Deployed Engineer · I build AI agents and the CRMs and sites around them for real businesses
+### Founder's Office · I build AI agents and the CRMs and sites around them for real businesses
 
 I sit between the customer and the code. I join the discovery call, learn how the business really runs (how quotes get priced, who chases invoices, which leads go cold), and then ship the software. Usually that takes days, and it runs on live customer data.
 
