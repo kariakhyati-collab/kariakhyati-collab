@@ -17,7 +17,6 @@ In the last year I've shipped **90+ production apps** and made **2,000+ commits*
 | 🧾 **Back-office agents** | Order-to-cash and accounts-payable agents for manufacturers: invoice matching, collections, lockbox and payment matching, ERP connectors (QuickBooks Desktop, IQMS on Oracle). |
 | 📐 **Quote & proposal engines** | A construction proposal builder (plan takeoff → manufacturer quote PDF → tally → priced proposal with tax rules) and an LOI generator with a follow-up engine for commercial lending. |
 | 🌐 **B2B websites at scale** | 20+ industrial and professional-services sites, including generator-built 100-page sites, redirect migrations and AI-generated hero video built at deploy time. |
-| 🎬 **AI video pipelines** | Children's animated series and sing-along songs made end to end with chained image/video/voice models, consistent characters, lyric-timed captions and an ffmpeg assembly step. |
 
 👉 **Case studies of each one: [portfolio](https://github.com/kariakhyati-collab/portfolio)** *(client names and data are left out on purpose)*
 
