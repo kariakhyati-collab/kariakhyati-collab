@@ -19,6 +19,17 @@ In the last year I've shipped **90+ production apps** and made **2,000+ commits*
 
 ---
 
+## 🧪 Prototypes
+
+Quick clickable prototypes I build to test a product idea with real users before writing the full product. Each one has product notes covering the problem, assumptions and what I'd measure. [All prototypes →](https://khyati-prototypes.vercel.app)
+
+| Prototype | What it shows | Links |
+|---|---|---|
+| 💬 **Chat ordering bot**<br><sub>Distribution · India</sub> | Kirana stores order from a distributor over chat, in English or Hinglish. The bot reads the order, offers substitutes for out-of-stock items, checks credit and books a delivery slot. The ops console shows the order arrive and move through to dispatch. | [Try it](https://khyati-prototypes.vercel.app/order-bot) · [Code](https://github.com/kariakhyati-collab/product-prototypes) |
+| 📱 **Field-sales mobile app**<br><sub>Field sales · India</sub> | A rep's day: route and target, shop check-in, orders with schemes, slab discounts and GST, UPI/cash/cheque collection against the oldest invoice, and offline sync. | [Try it](https://khyati-prototypes.vercel.app/field-sales) · [Code](https://github.com/kariakhyati-collab/product-prototypes) |
+
+---
+
 ## 🛠️ What I build
 
 | | |
